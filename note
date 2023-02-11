@@ -1,0 +1,6 @@
+git init .
+git add .
+git diff = compare changes WorkingDIrectory vs StagingArea
+git diff --staged = compare SA vs LocalRepo
+git diff HEAD = compare WD vs LR
+

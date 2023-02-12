@@ -4,3 +4,5 @@ git diff = compare changes WorkingDIrectory vs StagingArea
 git diff --staged = compare SA vs LocalRepo
 git diff HEAD = compare WD vs LR
 
+Creat account on github alex-u2-demo 
+invit alex-u2-demo to access repo git   

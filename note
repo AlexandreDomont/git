@@ -6,3 +6,7 @@ git diff HEAD = compare WD vs LR
 
 Creat account on github alex-u2-demo 
 invit alex-u2-demo to access repo git   
+
+git annotate file2
+git show HEAD
+git diff HEAD HEAD~2

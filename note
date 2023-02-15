@@ -10,3 +10,15 @@ invit alex-u2-demo to access repo git
 git annotate file2
 git show HEAD
 git diff HEAD HEAD~2
+
+Fork permet de copier sur son repo github un projet tiers public
+fork de github à github
+les modifications seront proposé en Pull requets
+clone github à repo local
+
+si modifie un repo public alors demande pull requeste
+
+si ajout un collaborateur, il peut push sans pull request
+
+
+

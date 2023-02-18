@@ -26,5 +26,7 @@ git tag -a v0.1 f2835356f0 -m "custom tag commit"
 git push --all
 git push --tags
 
+# pour annuler une modification sur un fichier suivi = workingdirectory <> staging area
+git restore file7
 
 

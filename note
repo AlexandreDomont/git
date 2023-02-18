@@ -32,4 +32,4 @@ git restore file7
 # Pour annuler un commit 
 git reset HEAD^
 
-
+https://github.com/ravdy/git_course/blob/master/Setup_repo_for_a_project.md

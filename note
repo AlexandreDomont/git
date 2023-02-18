@@ -20,5 +20,11 @@ si modifie un repo public alors demande pull requeste
 
 si ajout un collaborateur, il peut push sans pull request
 
+git tag v1.0
+git push origin v1.0
+git tag -a v0.1 f2835356f0 -m "custom tag commit"
+git push --all
+git push --tags
+
 
 

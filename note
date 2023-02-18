@@ -29,4 +29,7 @@ git push --tags
 # pour annuler une modification sur un fichier suivi = workingdirectory <> staging area
 git restore file7
 
+# Pour annuler un commit 
+git reset HEAD^
+
 

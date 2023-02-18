@@ -39,3 +39,4 @@ https://github.com/ravdy/git_course/blob/master/Setup_repo_for_a_project.md
 git rebase -i HEAD~4
 git rebase --abort
 
+# pull = fetch (repo local) + merge (working diretory)

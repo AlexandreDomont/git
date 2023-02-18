@@ -33,3 +33,9 @@ git restore file7
 git reset HEAD^
 
 https://github.com/ravdy/git_course/blob/master/Setup_repo_for_a_project.md
+
+
+# rebase = manipuler les commit
+git rebase -i HEAD~4
+git rebase --abort
+
